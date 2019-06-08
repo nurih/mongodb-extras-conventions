@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <PackageId>PlusN.MongoDB.Extras.Conventions</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Nuri Halperin</Authors>
     <Owners>Plus N Consulting, Inc.</Owners>
     <Description>MongoDB .NET driver conventions for common scenarios</Description>
@@ -9,7 +9,7 @@
     <PackageProjectUrl>https://github.com/nurih/mongodb-extras-conventions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/nurih/mongodb-extras-conventions</RepositoryUrl>
     <RepositoryType>Github</RepositoryType>
-    <PackageTags>C# .NET MongoDB Conventions</PackageTags>
+    <PackageTags>MongoDB ObjectId Convention Conventions Serialization POCO</PackageTags>
   </PropertyGroup>
     <ItemGroup>
       <Content Include="../README.md">
